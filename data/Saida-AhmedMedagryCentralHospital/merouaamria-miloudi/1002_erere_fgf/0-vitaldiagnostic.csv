@@ -1,0 +1,2 @@
+Appointment Index,Timestamp,Patient Folder,Gender,Age (years),Cough,Fever,Shortness of Breath,Chest Pain,Fatigue,Confusion,Oxygen Saturation (%),Crackles,Sputum Color,Temperature (°C),Prediction (raw),Prediction Label,Confidence,Clinical Notes
+0,2026-04-19 13:12:09,1002_erere_fgf,M,5,Dry,Low,Mild,Mild,Mild,No,97.0,No,None,37.0,1,Sick,91%,

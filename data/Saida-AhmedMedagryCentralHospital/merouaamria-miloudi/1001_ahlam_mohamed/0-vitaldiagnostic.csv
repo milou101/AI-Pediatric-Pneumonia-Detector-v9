@@ -1,0 +1,2 @@
+Appointment Index,Timestamp,Patient Folder,Gender,Age (years),Cough,Fever,Shortness of Breath,Chest Pain,Fatigue,Confusion,Oxygen Saturation (%),Crackles,Sputum Color,Temperature (°C),Prediction (raw),Prediction Label,Confidence,Clinical Notes
+0,2026-04-13 18:30:47,1001_ahlam_mohamed,F,4,Wet,High,Moderate,Mild,Moderate,Yes,86.0,Yes,Green,40.1,1,Sick,100%,hard to take a breath

@@ -1,0 +1,2 @@
+treatment_id,timestamp,patient_id,patient_name,medications,appointment_date,followup_notes,warning_signs,emergency_risks,emergency_actions,emergency_must_know,emergency_history
+20260424_203259,2026-04-24 20:32:59,1001,ahlam mohamed,[],,,[],,,,

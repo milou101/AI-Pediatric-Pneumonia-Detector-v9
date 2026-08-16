@@ -1,0 +1,2 @@
+treatment_id,timestamp,patient_id,patient_name,medications,appointment_date,followup_notes,warning_signs,emergency_risks,emergency_actions,emergency_must_know,emergency_history
+20260422_191532,2026-04-22 19:15:32,1003,ett rr,"[{""name"": ""gg"", ""dosage"": ""2"", ""schedule"": ""8 ;;"", ""duration"": ""5""}]",2026-04-08,,"[{""mark"": """", ""instruction"": """"}]",,,,

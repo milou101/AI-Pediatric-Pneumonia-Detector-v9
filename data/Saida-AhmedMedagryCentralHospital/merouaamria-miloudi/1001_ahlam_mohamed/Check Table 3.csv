@@ -1,0 +1,16 @@
+#,Feature,Current Status,vs. Last Check,Notes,saved_at
+1,Temperature,40,++,°C,2026-04-13 19:19:46
+2,Respiratory Rate,85,--,breaths/min,2026-04-13 19:19:46
+3,Oxygen Saturation,low,--,Alert if <90%,2026-04-13 19:19:46
+4,Chest Indrawing,yes,+,WHO danger sign,2026-04-13 19:19:46
+5,Work of Breathing,hard,-,,2026-04-13 19:19:46
+6,Consciousness,yes,+++,Any ↓ = CRITICAL,2026-04-13 19:19:46
+7,Feeding / Drinking,no,--,,2026-04-13 19:19:46
+8,Chest Pain,no,---,,2026-04-13 19:19:46
+9,Crackles,no,--,,2026-04-13 19:19:46
+10,Breath Sounds,yes,-,,2026-04-13 19:19:46
+11,Cyanosis,yes,++,Central = emergency,2026-04-13 19:19:46
+12,Antibiotic Dose Given,yes,+,Track compliance,2026-04-13 19:19:46
+13,Hours Since Last Fever,0,,0 = currently febrile,2026-04-13 19:19:46
+14,Clinical Impression,bad ,++,Nurse assessment,2026-04-13 19:19:46
+15,Red Flags Present,vomiting,+,Count total,2026-04-13 19:19:46

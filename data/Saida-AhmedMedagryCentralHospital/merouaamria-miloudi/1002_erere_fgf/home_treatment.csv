@@ -1,0 +1,2 @@
+treatment_id,timestamp,patient_id,patient_name,medications,appointment_date,followup_notes,warning_signs,emergency_risks,emergency_actions,emergency_must_know,emergency_history
+20260419_131620,2026-04-19 13:16:20,1002,erere fgf,"[{""name"": """", ""dosage"": """", ""schedule"": """", ""duration"": """"}]",2026-04-19,,"[{""mark"": """", ""instruction"": """"}]",,,,
